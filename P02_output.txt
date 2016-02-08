@@ -1,0 +1,324 @@
+0 HEAD
+Level: 0 
+Tag: HEAD
+0 NOTE Anas Alamoudi
+Level: 0 
+Tag: NOTE
+1 FILE My Family
+Level: 1 
+Tag: Invalid tag
+1 DATE 24 JAN 2016
+Level: 1 
+Tag: DATE
+0 @I1@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Don Drapper
+Level: 1 
+Tag: NAME
+2 GIVN Don
+Level: 2 
+Tag: Invalid tag
+2 SURN Drapper
+Level: 2 
+Tag: Invalid tag
+1 SEX M
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 10 JAN 1942
+Level: 2 
+Tag: DATE
+1 FAMS @F1@
+Level: 1 
+Tag: FAMS
+1 FAMS @F3@
+Level: 1 
+Tag: FAMS
+1 FAMC @F2@
+Level: 1 
+Tag: FAMC
+0 @I2@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Bethany Jacklyn
+Level: 1 
+Tag: NAME
+2 GIVN Bethany
+Level: 2 
+Tag: Invalid tag
+2 SURN Jacklyn
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Drapper
+Level: 2 
+Tag: Invalid tag
+1 SEX F
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 3 MAY 1952
+Level: 2 
+Tag: DATE
+1 FAMS @F1@
+Level: 1 
+Tag: FAMS
+0 @I3@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Sally Drapper
+Level: 1 
+Tag: NAME
+2 GIVN Sally
+Level: 2 
+Tag: Invalid tag
+2 SURN Drapper
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Drapper
+Level: 2 
+Tag: Invalid tag
+1 SEX F
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 8 FEB 1972
+Level: 2 
+Tag: DATE
+1 FAMC @F1@
+Level: 1 
+Tag: FAMC
+0 @I4@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Jack Drapper
+Level: 1 
+Tag: NAME
+2 GIVN Jack
+Level: 2 
+Tag: Invalid tag
+2 SURN Drapper
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Drapper
+Level: 2 
+Tag: Invalid tag
+1 SEX M
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 7 JUN 1975
+Level: 2 
+Tag: DATE
+1 FAMC @F1@
+Level: 1 
+Tag: FAMC
+0 @I5@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Gene Drapper
+Level: 1 
+Tag: NAME
+2 GIVN Gene
+Level: 2 
+Tag: Invalid tag
+2 SURN Drapper
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Drapper
+Level: 2 
+Tag: Invalid tag
+1 SEX M
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 14 MAY 1980
+Level: 2 
+Tag: DATE
+1 FAMC @F1@
+Level: 1 
+Tag: FAMC
+0 @I6@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Bobby Mclain
+Level: 1 
+Tag: NAME
+2 GIVN Bobby
+Level: 2 
+Tag: Invalid tag
+2 SURN Mclain
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Mclain
+Level: 2 
+Tag: Invalid tag
+1 SEX M
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 17 AUG 1960
+Level: 2 
+Tag: DATE
+1 FAMC @F3@
+Level: 1 
+Tag: FAMC
+0 @I7@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Jinnefer Francse
+Level: 1 
+Tag: NAME
+2 GIVN Jinnefer
+Level: 2 
+Tag: Invalid tag
+2 SURN Francse
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Francse
+Level: 2 
+Tag: Invalid tag
+1 SEX F
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 15 MAY 1948
+Level: 2 
+Tag: DATE
+1 DEAT Y
+Level: 1 
+Tag: DEAT
+2 DATE 10 MAR 1960
+Level: 2 
+Tag: DATE
+1 FAMS @F3@
+Level: 1 
+Tag: FAMS
+0 @I8@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Theodor Drapper
+Level: 1 
+Tag: NAME
+2 GIVN Theodor
+Level: 2 
+Tag: Invalid tag
+2 SURN Drapper
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Drapper
+Level: 2 
+Tag: Invalid tag
+1 SEX M
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 13 APR 1899
+Level: 2 
+Tag: DATE
+1 FAMS @F2@
+Level: 1 
+Tag: FAMS
+0 @I9@ INDI
+Level: 0 
+Tag: INDI
+1 NAME Monica Drapper
+Level: 1 
+Tag: NAME
+2 GIVN Monica
+Level: 2 
+Tag: Invalid tag
+2 SURN Drapper
+Level: 2 
+Tag: Invalid tag
+2 _MARNM Drapper
+Level: 2 
+Tag: Invalid tag
+1 SEX F
+Level: 1 
+Tag: SEX
+1 BIRT
+Level: 1 
+Tag: BIRT
+2 DATE 2 JUN 1910
+Level: 2 
+Tag: DATE
+1 FAMS @F2@
+Level: 1 
+Tag: FAMS
+0 @F1@ FAM
+Level: 0 
+Tag: Invalid tag
+1 HUSB @I1@
+Level: 1 
+Tag: HUSB
+1 WIFE @I2@
+Level: 1 
+Tag: WIFE
+1 CHIL @I3@
+Level: 1 
+Tag: CHIL
+1 CHIL @I4@
+Level: 1 
+Tag: CHIL
+1 CHIL @I5@
+Level: 1 
+Tag: CHIL
+1 MARR
+Level: 1 
+Tag: MARR
+1 _CURRENT Y
+Level: 1 
+Tag: Invalid tag
+0 @F2@ FAM
+Level: 0 
+Tag: Invalid tag
+1 HUSB @I8@
+Level: 1 
+Tag: HUSB
+1 WIFE @I9@
+Level: 1 
+Tag: WIFE
+1 CHIL @I1@
+Level: 1 
+Tag: CHIL
+1 _CURRENT Y
+Level: 1 
+Tag: Invalid tag
+0 @F3@ FAM
+Level: 0 
+Tag: Invalid tag
+1 HUSB @I1@
+Level: 1 
+Tag: HUSB
+1 WIFE @I7@
+Level: 1 
+Tag: WIFE
+1 CHIL @I6@
+Level: 1 
+Tag: CHIL
+1 MARR
+Level: 1 
+Tag: MARR
+1 _CURRENT N
+Level: 1 
+Tag: Invalid tag
+0 TRLR
+Level: 0 
+Tag: TRLR
